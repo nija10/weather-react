@@ -8,9 +8,9 @@ function App() {
         <h1>Weather Search Engine</h1>
         <Weather />
         <footer>
-          The project is on{"  "}
+          The project is coded by "Nija Kharangar" on{"  "}
           <a href="https://github.com/nija10/weather-react">Github</a> and
-          hosted on
+          hosted on{"  "}
           <a href="#">Netlify</a>
         </footer>
       </header>
