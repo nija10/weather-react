@@ -53,7 +53,7 @@ export default function Weather() {
         <li>Humidity: {response.data.main.humidity}%</li>
         <li>Wind: {response.data.wind.speed}km/h</li>
         <li>
-          <img src={img} />
+          <img src={img} alt="image" />
         </li>
       </ul>
     );
