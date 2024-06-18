@@ -11,7 +11,7 @@ function App() {
           The project is coded by "Nija Kharangar" on{"  "}
           <a href="https://github.com/nija10/weather-react">Github</a> and
           hosted on{"  "}
-          <a href="https://github.com/nija10/weather-react">Netlify</a>
+          <a href="https://weatherr-react.netlify.app/">Netlify</a>
         </footer>
       </header>
     </div>
